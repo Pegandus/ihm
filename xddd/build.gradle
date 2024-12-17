@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'org.openjfx:javafx-swing:19'
+} 
