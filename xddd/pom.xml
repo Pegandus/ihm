@@ -1,5 +1,0 @@
-<dependency>
-    <groupId>org.openjfx</groupId>
-    <artifactId>javafx-swing</artifactId>
-    <version>19</version>
-</dependency> 
